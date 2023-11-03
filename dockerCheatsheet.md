@@ -14,7 +14,7 @@ $ docker start <container-id>
 * Stop a docker container
 
 ```sh
-$ docker start <container-id>
+$ docker stop <container-id>
 ```
 
 * combines `docker` pull and `docker` start
